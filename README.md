@@ -1,5 +1,5 @@
 # BookListApp
-It uses react, express js and graphQL.
+It uses [React](https://github.com/facebook/create-react-app), [Express js](https://github.com/fishxxxx/BookListApp/blob/master/img/graphql2.png) and [GraphQL](https://graphql.org/).
 
 ## The basic structure
 <img src="https://github.com/fishxxxx/BookListApp/blob/master/img/structure.png" width="500">
