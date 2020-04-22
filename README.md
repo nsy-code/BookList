@@ -23,7 +23,7 @@ It use express js as GraphQL server to CRUD data from database.
 
 ### Installation
 ```npm install nodemon -g ```  
-It is a tool that automatically restarting the node app when there are some changes saved.
+It is a tool that automatically restarts the node app when there are some changes saved.
 ```
 npm install
 nodemon app.js
