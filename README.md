@@ -2,10 +2,10 @@
 ## Table of Content
 1. [App info](#appinfo)
 2. [Technologies](#technologies)
-3. [design](#design)
-4. [features](#features)
+3. [Design](#design)
+4. [Features](#features)
 5. [Installation](#installation)
-6. [inspiration](#inspiration)
+6. [Inspiration](#inspiration)
 
 
 <a name="appinfo"></a>
