@@ -5,7 +5,7 @@
 3. [Design](#design)
 4. [Features](#features)
 5. [Installation](#installation)
-6. [Inspiration](#inspiration)
+6. [Reference](#reference)
 
 
 <a name="appinfo"></a>
@@ -58,6 +58,6 @@ npm install
 nodemon app.js
 ```
 
-<a name="inspiration"></a>
-## Inspiration
-This app is based on [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) from TheNetNinja.
+<a name="reference"></a>
+## Reference
+[GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) from TheNetNinja.
