@@ -12,19 +12,19 @@
 ## App info
 This web app is to create something like To-do-list. The main purpose is to use GraphQL as the method between front-end application and back-end server and database.  
 <p align="center">
-  <img src="https://github.com/fishxxxx/BookListApp/blob/master/img/react_demo.gif" width="300" >
+  <img src="./img/react_demo.gif" width="300" >
 </p>
 
 <a name="technologies"></a>
 ## Technologies  
 This project is created with
 - [React js](https://github.com/facebook/create-react-app)
-- [Express js](https://github.com/fishxxxx/BookListApp/blob/master/img/graphql2.png)
+- [Express js](./img/graphql2.png)
 - [GraphQL](https://graphql.org/)
 
 <a name="design"></a>
 ## The design
-<img src="https://github.com/fishxxxx/BookListApp/blob/master/img/structure.png" width="500">
+<img src="./img/structure.png" width="500">
 
 <a name="features"></a>
 ## Features
@@ -38,10 +38,10 @@ This project is created with
 
 ### Using graphiql
 #### use Query
-<img src="https://github.com/fishxxxx/BookListApp/blob/master/img/graphql1.png" width="600">  
+<img src="./img/graphql1.png" width="600">  
 
 #### use Mutation
-<img src="https://github.com/fishxxxx/BookListApp/blob/master/img/graphql2.png" width="600">  
+<img src="./img/graphql2.png" width="600">  
 
 <a name="installation"></a>
 ## Installation
